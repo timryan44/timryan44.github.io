@@ -7,6 +7,6 @@ color: navy }
 h2 { font-size: 150%; font-style: italic }
 nav Li { display: inline-block; border: 1px solid black; padding: 10px; margin; 5px; background: gray; width: 250px }
 
-a { color: silver; text-decoration:none }
+a { color: darkred; text-decoration:none }
 
 a:hover { color: green }
